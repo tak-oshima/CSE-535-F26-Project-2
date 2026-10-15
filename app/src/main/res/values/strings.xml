@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Misère Starter</string>
+    <string name="project_title">Misère Tic-Tac-Toe</string>
+    <string name="game_rule">Make three in a row and you lose.</string>
+    <string name="group_label">CSE 535 · Group 11</string>
+    <string name="starter_status">Initial project setup</string>
+    <string name="starter_description">Gameplay will be added next.</string>
+    <string name="board_description">Empty board preview. Gameplay is not implemented.</string>
+</resources>
