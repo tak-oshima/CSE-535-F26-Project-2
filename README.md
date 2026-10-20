@@ -1,6 +1,6 @@
 # CSE 535 F26 - Project 2
 
-Group 11 Android starter app.
+Group 11 Android app for misère tic-tac-toe.
 
 ## Build and run
 

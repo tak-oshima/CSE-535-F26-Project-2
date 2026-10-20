@@ -1,9 +1,13 @@
 <resources>
-    <string name="app_name">Misère Starter</string>
+    <string name="app_name">Misère Tic-Tac-Toe</string>
     <string name="project_title">Misère Tic-Tac-Toe</string>
     <string name="game_rule">Make three in a row and you lose.</string>
     <string name="group_label">CSE 535 · Group 11</string>
-    <string name="starter_status">Initial project setup</string>
-    <string name="starter_description">Gameplay will be added next.</string>
-    <string name="board_description">Empty board preview. Gameplay is not implemented.</string>
+    <string name="turn_message">%1$s to play</string>
+    <string name="loss_message">%1$s made three in a row. %2$s wins!</string>
+    <string name="draw_message">Draw! No one made three in a row.</string>
+    <string name="reset_game">Reset game</string>
+    <string name="local_game_description">Two players on this device. X goes first.</string>
+    <string name="cell_description">Row %1$d, column %2$d: %3$s</string>
+    <string name="empty_cell">empty</string>
 </resources>
